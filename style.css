@@ -48,10 +48,10 @@
 .main-content{
     width: 100%;
     height: 90vh;
-    background-image: url(./images/home.jpg);
+    background-image: url(./images/home_bg.jpg);
     background-size: cover;
     background-position: 70%;
-    color: black;
+    color: white;
 }
 
 /* navbar */
